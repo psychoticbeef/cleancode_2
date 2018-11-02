@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.formatOnType": true,
+		"C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Google, IndentWidth: 4, AlignConsecutiveAssignments: true, AllowShortFunctionsOnASingleLine: false, AllowShortCaseLabelsOnASingleLine: true, IndentCaseLabels: false, AllowShortIfStatementsOnASingleLine: false}",
+		"files.exclude": {
+			"*.code-workspace": true,
+			"**/*.o": true,
+			"test": true,
+			"wordcount": true
+		}
+	}
+}
